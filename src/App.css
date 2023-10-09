@@ -1,0 +1,8 @@
+@font-face {
+	font-family: SanafonKaku;
+	src: url('/src/assets/font/POP.ttf');
+}
+
+* {
+	font-family: SanafonKaku;
+}
